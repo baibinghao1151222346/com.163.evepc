@@ -1,0 +1,334 @@
+.container {
+    width: 100%;
+    height: 955px;
+    background: url(../img/chushi/bg.jpg) no-repeat center ;
+    min-height: auto;
+    overflow: hidden;
+}
+
+
+.top_nav {
+    width: 100%;
+    height: 100px;
+    background: url(../img/top_nav-bg.png) no-repeat left top;
+    position: relative;
+    z-index: 3;
+}
+
+.top_nav .logo {
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 140px;
+    height: auto;
+    margin:15px  0 0 68px
+}
+.container .top_nav .logoBox {
+    width: 280px;
+    height: 100px;
+    background: url(https://xz.res.netease.com/pc/zt/20180913102813/img/cs/logo_c2b5747.png) no-repeat;
+    margin-top: -10px;
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 83px;
+}
+.top_nav .logo img {
+    width: 100%
+}
+
+.top_nav ul {
+    margin: 0 0 0 275px;
+    line-height: 75px;
+    height: 64px
+}
+
+.top_nav ul i {
+    float: left;
+    width: 1px;
+    height: 15px;
+    background: url(../img/top_navline.png) no-repeat;
+    margin-top: 30px
+}
+
+.top_nav ul li {
+    float: left;
+    padding: 0 32px
+}
+
+.top_nav ul li a {
+    color: #fff;
+    font-size: 18px
+}
+
+
+.container .left_btn {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 368px;
+    height: 100%;
+    background: url(https://xz.res.netease.com/pc/zt/20180913102813/img/cs/left_bg_ad4d262.png) no-repeat right top
+}
+
+.container .left_btn .cut {
+    display: block;
+    width: 65px;
+    height: 36px;
+    background: url(https://xz.res.netease.com/pc/zt/20180913102813/img/cs/cut_1d109dc.png) no-repeat;
+    margin-top: 249px;
+    margin-left: 238px;
+    cursor: pointer;
+    position: relative
+}
+
+.container .left_btn .cut .cut_c {
+    width: 142px;
+    height: 36px;
+    background: url(https://xz.res.netease.com/pc/zt/20180913102813/img/cs/cut_c_dd0b1d0.jpg) no-repeat;
+    position: absolute;
+    right: -150px;
+    top: 0;
+    -webkit-opacity: 0;
+    -moz-opacity: 0;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    -webkit-transition: all .2s;
+    -moz-transition: all .2s;
+    -ms-transition: all .2s;
+    -o-transition: all .2s;
+    transition: all .2s;
+    z-index: -1;
+    font-size: 0;
+    padding-left: 9px
+}
+
+.container .left_btn .cut .cut_c a {
+    display: inline-block;
+    width: 60px;
+    text-align: center;
+    color: #d1d1d1;
+    font-size: 18px;
+    line-height: 36px
+}
+
+.container .left_btn .cut .cut_c a.on,.container .left_btn .cut .cut_c a:hover {
+    color: #f37949
+}
+
+.container .left_btn .cut .cut_c a:first-child {
+    margin-right: 1px
+}
+
+.container .left_btn .cut:hover {
+    background: url(https://xz.res.netease.com/pc/zt/20180913102813/img/cs/cut_h_24f2a4b.png) no-repeat
+}
+
+.container .left_btn .cut:hover .cut_c {
+    -webkit-opacity: 1;
+    -moz-opacity: 1;
+    opacity: 1;
+    filter: alpha(opacity=100);
+    z-index: 30
+}
+
+.container .left_btn ul {
+    margin-top: 35px;
+    position: relative
+}
+
+.container .left_btn ul li {
+    width: 361px;
+    height: 72px;
+    position: absolute;
+    right: 0;
+    top: 0
+}
+
+.container .left_btn ul li:nth-child(2) {
+    top: 98px
+}
+
+.container .left_btn ul li:nth-child(3) {
+    top: 196px
+}
+
+.container .left_btn ul li a {
+    display: block;
+    height: 100%
+}
+
+.container .left_btn ul li a.btn1 {
+    background: url(../img/chushi/01.png) no-repeat right top
+}
+
+.container .left_btn ul li a.btn1:hover,.container .left_btn ul li a.btn1.on {
+    background: url(../img/chushi/01_h.png) no-repeat right top
+}
+
+.container .left_btn ul li a.btn2 {
+    background: url(../img/chushi/02.png) no-repeat right top
+}
+
+.container .left_btn ul li a.btn2:hover,.container .left_btn ul li a.btn2.on {
+    background: url(../img/chushi/02_h.png) no-repeat right top
+}
+
+.container .left_btn ul li a.btn3 {
+    background: url(../img/chushi/03.png) no-repeat right top
+}
+
+.container .left_btn ul li a.btn3:hover,.container .left_btn ul li a.btn3.on {
+    background: url(../img/chushi/03_h.png) no-repeat right top
+}
+
+.container .left_btn .fc {
+    width: 549px;
+    height: 316px;
+    background: url(../img/chushi/fc_cc1af4e.png) no-repeat;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 10
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer {
+    padding: 25px 0;
+    background: #282828;
+    width: 100%;
+    max-width: 1920px;
+    min-width: 1200px;
+    overflow: hidden;
+    margin: 0 auto;
+  }
+  #NIE-copyRight {
+    text-align: center;
+  }
+  
+  .nie-copyright-new-inner {
+    width: 1024px;
+    text-align: left;
+    margin: 0 auto;
+    padding: 15px 0 10px;
+    font-size: 12px;
+    line-height: 20px;
+  }
+  
+  .nie-copyright-new-inner .nie-cn-logo {
+    display: inline-block;
+    vertical-align: middle;
+    height: 48px;
+    min-width: 300px
+  }
+  
+  .nie-copyright-new-inner .nie-cn-logo a {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 2px;
+  }
+  
+  .nie-copyright-new-inner .nie-cn-logo a.a0 img {
+    padding-right: 0
+  }
+  
+  .nie-copyright-new-inner .nie-cn-logo img {
+    padding-right: 15px;
+    padding-top: 5px;
+    border: 0;
+    vertical-align: middle;
+  }
+  
+  .nie-copyright-new-inner .nie-cn-nav {
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    z-index: 1;
+  }
+  
+  .nie-copyright-new-inner .nie-cn-nav i {
+    font-style: normal
+  }
+  
+  .nie-copyright-new-inner .nie-cn-nav i.nie-cn-nav-i2 {
+    height: 28px;
+    line-height: 28px;
+    text-align: left;
+  }
+  
+  .nie-copyright-new-inner .nie-cn-nav a {
+    text-decoration: none
+  }
+  
+  .nie-copyright-new-inner .nie-cn-nav a:hover {
+    text-decoration: underline
+  }
+  
+  .nie-copyright-new-inner .nie-cn-nav .nie-cn-reportcenter {
+    padding-left: 18px;
+    font-style: normal;
+  }
+  .NIE-copyRight p, .NIE-copyRight a, .NIE-copyRight i, .NIE-copyRight span {
+      color: #fff;
+  }
+  .nie-copyright-new-inner .nie-cn-nav a.nie-cn-guardianship {
+    display: inline-block;
+    color: #fff;
+    background-color: #610000;
+    position: absolute;
+    z-index: 2;
+    right: 0;
+    height: 26px;
+    line-height: 26px;
+    padding: 0 3px;
+    top: 21px
+  }
+  
+  #NIE-copyRight a.nie-cn-guardianship {
+    color: #fff;
+  }
+  
+  .nie-copyright-new-inner .nie-cn-part2 {
+    padding-top: 10px;
+    line-height: 24px
+  }
+  
+  .nie-copyright-new-inner .nie-cn-part2 a {
+    text-decoration: none;
+    display: inline-block;
+    vertical-align: top
+  }
+  
+  .nie-copyright-new-inner .nie-cn-part2 a:hover {
+    text-decoration: underline
+  }
+  
+  .nie-copyright-new-inner .nie-cn-part2 span {
+    display: inline-block;
+    vertical-align: top;
+  }
+  
+  .nie-cn-part2 a img {
+    vertical-align: top
+  }
+  
+  
