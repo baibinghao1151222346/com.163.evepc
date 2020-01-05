@@ -1,0 +1,217 @@
+.container {
+    width: 100%;
+    height: 955px;
+    background: url(../img/intro-mbg.jpg) no-repeat center ;
+    min-height: auto;
+}
+
+
+.top_nav {
+    width: 100%;
+    height: 100px;
+    background: url(../img/top_nav-bg.png) no-repeat left top;
+    position: relative
+}
+
+.top_nav .logo {
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 140px;
+    height: auto;
+    margin:15px  0 0 68px
+}
+
+.top_nav .logo img {
+    width: 100%
+}
+
+.top_nav ul {
+    margin: 0 0 0 275px;
+    line-height: 75px;
+    height: 64px
+}
+
+.top_nav ul i {
+    float: left;
+    width: 1px;
+    height: 15px;
+    background: url(../img/top_navline.png) no-repeat;
+    margin-top: 30px
+}
+
+.top_nav ul li {
+    float: left;
+    padding: 0 32px
+}
+
+.top_nav ul li a {
+    color: #fff;
+    font-size: 18px
+}
+
+
+
+.container .mid_btn {
+    width: 384px;
+    height: 150px;
+    margin: 590px auto 0;
+    position: relative
+}
+
+.container .mid_btn a {
+    position: absolute;
+    width: 249px;
+    height: 71px;
+    top: 51px
+}
+
+.container .mid_btn a.left_btn {
+    background: url(../img/intro-m-l.png) no-repeat;
+    left: -93px
+}
+
+.container .mid_btn a.left_btn:hover {
+    background: url(../img/intro-m-l-h.png) no-repeat
+}
+
+.container .mid_btn a.right_btn {
+    background: url(../img/intro-m-r.png) no-repeat;
+    right: -100px
+}
+
+.container .mid_btn a.right_btn:hover {
+    background: url(../img/intro-m-r-h.png) no-repeat
+}
+
+.container .mid_btn ._gif {
+    position: absolute;
+    width: 132px;
+    height: 86px;
+    top: 34px;
+    left: 115px
+}
+
+
+
+.footer {
+    padding: 25px 0;
+    background: #282828;
+    width: 100%;
+    max-width: 1920px;
+    min-width: 1200px;
+    overflow: hidden;
+    margin: 0 auto;
+  }
+  #NIE-copyRight {
+    text-align: center;
+  }
+  
+  .nie-copyright-new-inner {
+    width: 1024px;
+    text-align: left;
+    margin: 0 auto;
+    padding: 15px 0 10px;
+    font-size: 12px;
+    line-height: 20px;
+  }
+  
+  .nie-copyright-new-inner .nie-cn-logo {
+    display: inline-block;
+    vertical-align: middle;
+    height: 48px;
+    min-width: 300px
+  }
+  
+  .nie-copyright-new-inner .nie-cn-logo a {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 2px;
+  }
+  
+  .nie-copyright-new-inner .nie-cn-logo a.a0 img {
+    padding-right: 0
+  }
+  
+  .nie-copyright-new-inner .nie-cn-logo img {
+    padding-right: 15px;
+    padding-top: 5px;
+    border: 0;
+    vertical-align: middle;
+  }
+  
+  .nie-copyright-new-inner .nie-cn-nav {
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    z-index: 1;
+  }
+  
+  .nie-copyright-new-inner .nie-cn-nav i {
+    font-style: normal
+  }
+  
+  .nie-copyright-new-inner .nie-cn-nav i.nie-cn-nav-i2 {
+    height: 28px;
+    line-height: 28px;
+    text-align: left;
+  }
+  
+  .nie-copyright-new-inner .nie-cn-nav a {
+    text-decoration: none
+  }
+  
+  .nie-copyright-new-inner .nie-cn-nav a:hover {
+    text-decoration: underline
+  }
+  
+  .nie-copyright-new-inner .nie-cn-nav .nie-cn-reportcenter {
+    padding-left: 18px;
+    font-style: normal;
+  }
+  .NIE-copyRight p, .NIE-copyRight a, .NIE-copyRight i, .NIE-copyRight span {
+      color: #fff;
+  }
+  .nie-copyright-new-inner .nie-cn-nav a.nie-cn-guardianship {
+    display: inline-block;
+    color: #fff;
+    background-color: #610000;
+    position: absolute;
+    z-index: 2;
+    right: 0;
+    height: 26px;
+    line-height: 26px;
+    padding: 0 3px;
+    top: 21px
+  }
+  
+  #NIE-copyRight a.nie-cn-guardianship {
+    color: #fff;
+  }
+  
+  .nie-copyright-new-inner .nie-cn-part2 {
+    padding-top: 10px;
+    line-height: 24px
+  }
+  
+  .nie-copyright-new-inner .nie-cn-part2 a {
+    text-decoration: none;
+    display: inline-block;
+    vertical-align: top
+  }
+  
+  .nie-copyright-new-inner .nie-cn-part2 a:hover {
+    text-decoration: underline
+  }
+  
+  .nie-copyright-new-inner .nie-cn-part2 span {
+    display: inline-block;
+    vertical-align: top;
+  }
+  
+  .nie-cn-part2 a img {
+    vertical-align: top
+  }
+  
+  
