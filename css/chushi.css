@@ -1,7 +1,7 @@
 .container {
     width: 100%;
     height: 955px;
-    background: url(../img/chushi/bg.jpg) no-repeat center ;
+    background: url(../img/bg.jpg) no-repeat center ;
     min-height: auto;
     overflow: hidden;
 }
@@ -10,7 +10,7 @@
 .top_nav {
     width: 100%;
     height: 100px;
-    background: url(../img/chushi/top_nav-bar.png) no-repeat left top;
+    background: url(../img/top_nav-bar.png) no-repeat left top;
     position: relative;
     z-index: 3;
 }
@@ -27,7 +27,7 @@
 .container .top_nav .logoBox {
     width: 280px;
     height: 100px;
-    background: url(../img/chushi/top-nav-box.png) no-repeat;
+    background: url(../img/top-nav-box.png) no-repeat;
     margin-top: -10px;
     position: relative;
     display: inline-block;
@@ -85,14 +85,14 @@
     left: 0;
     width: 368px;
     height: 100%;
-    background: url(../img/chushi/left_bg.png) no-repeat right top
+    background: url(../img/left_bg.png) no-repeat right top
 }
 
 .container .left_btn .cut {
     display: block;
     width: 65px;
     height: 36px;
-    background: url(../img/chushi/cut.png) no-repeat;
+    background: url(../img/cut.png) no-repeat;
     margin-top: 249px;
     margin-left: 238px;
     cursor: pointer;
@@ -102,7 +102,7 @@
 .container .left_btn .cut .cut_c {
     width: 142px;
     height: 36px;
-    background: url(../img/chushi/cut_c_.jpg) no-repeat;
+    background: url(../img/cut_c_.jpg) no-repeat;
     position: absolute;
     right: -150px;
     top: 0;
@@ -138,7 +138,7 @@
 }
 
 .container .left_btn .cut:hover {
-    background: url(../img/chushi/cut_c_.jpg) no-repeat
+    background: url(../img/cut_c_.jpg) no-repeat
 }
 
 .container .left_btn .cut:hover .cut_c {
@@ -176,33 +176,33 @@
 }
 
 .container .left_btn ul li a.btn1 {
-    background: url(../img/chushi/01.png) no-repeat right top
+    background: url(../img/001.png) no-repeat right top
 }
 
 .container .left_btn ul li a.btn1:hover,.container .left_btn ul li a.btn1.on {
-    background: url(../img/chushi/01_h.png) no-repeat right top
+    background: url(../img/001_h.png) no-repeat right top
 }
 
 .container .left_btn ul li a.btn2 {
-    background: url(../img/chushi/02.png) no-repeat right top
+    background: url(../img/002.png) no-repeat right top
 }
 
 .container .left_btn ul li a.btn2:hover,.container .left_btn ul li a.btn2.on {
-    background: url(../img/chushi/02_h.png) no-repeat right top
+    background: url(../img/002_h.png) no-repeat right top
 }
 
 .container .left_btn ul li a.btn3 {
-    background: url(../img/chushi/03.png) no-repeat right top
+    background: url(../img/003.png) no-repeat right top
 }
 
 .container .left_btn ul li a.btn3:hover,.container .left_btn ul li a.btn3.on {
-    background: url(../img/chushi/03_h.png) no-repeat right top
+    background: url(../img/003_h.png) no-repeat right top
 }
 
 .container .left_btn .fc {
     width: 549px;
     height: 316px;
-    background: url(../img/chushi/fc_cc1af4e.png) no-repeat;
+    background: url(../img/fc_cc1af4e.png) no-repeat;
     position: absolute;
     bottom: 0;
     left: 0;
@@ -261,26 +261,26 @@
 }
 
 .container .mid_content .item .txt .img.img1 {
-  background: url(../img/chushi/part2_item1.jpg) no-repeat
+  background: url(../img/part2_item1.jpg) no-repeat
 }
 
 .container .mid_content .item .txt .img.img2 {
-  background: url(../img/chushi/part2_item2.jpg) no-repeat
+  background: url(../img/part2_item2.jpg) no-repeat
 }
 
 .container .mid_content .item .txt .img.img3 {
-  background: url(../img/chushi/part2_item3.jpg) no-repeat
+  background: url(../img/part2_item3.jpg) no-repeat
 }
 
 .container .mid_content .item .txt .img.img4 {
-  background: url(../img/chushi/part2_item4.jpg) no-repeat
+  background: url(../img/part2_item4.jpg) no-repeat
 }
 
 .container .mid_content .item .txt .img .tips {
   display: none;
   width: 115px;
   height: 114px;
-  background: url(../img/chushi/part2_h.png) no-repeat;
+  background: url(../img/part2_h.png) no-repeat;
   position: absolute;
   left: 50%;
   top: 158px;
@@ -295,7 +295,7 @@
 .container {
   width: 100%;
   height: 955px;
-  background: url(../img/chushi/bg2.jpg) no-repeat center 55px;
+  background: url(../img/bg2.jpg) no-repeat center 55px;
   min-height: auto;
   overflow: hidden
 }
@@ -313,7 +313,7 @@
 .container .mid_content .item .data {
   width: 303px;
   height: 149px;
-  background: url(../img/chushi/part1_bg1_.png) no-repeat;
+  background: url(../img/part1_bg1_.png) no-repeat;
   margin: 45px auto 0;
   padding-left: 83px
 }
@@ -333,7 +333,7 @@
   display: inline-block;
   width: 12px;
   height: 12px;
-  background: url(../img/chushi/item_icon_.png) no-repeat;
+  background: url(../img/item_icon_.png) no-repeat;
   margin-right: 5px
 }
 
@@ -356,19 +356,19 @@
 }
 
 .container .mid_content .item .btn a.prev {
-  background: url(../img/chushi/prev.png) no-repeat
+  background: url(../img/prev.png) no-repeat
 }
 
 .container .mid_content .item .btn a.prev:hover {
-  background: url(../img/chushi/prev_h_.png) no-repeat
+  background: url(../img/prev_h_.png) no-repeat
 }
 
 .container .mid_content .item .btn a.next {
-  background: url(../img/chushi/next.png) no-repeat
+  background: url(../img/next.png) no-repeat
 }
 
 .container .mid_content .item .btn a.next:hover {
-  background: url(../img/chushi/prev_h_.png) no-repeat
+  background: url(../img/prev_h_.png) no-repeat
 }
 
 .container .mid_content .item .title {
@@ -410,7 +410,7 @@
 
 .container .mid_content .item3  .txt a.cj1 {
   width: 290px;
-  background: url(https://xz.res.netease.com/pc/zt/20180913102813/img/cs/cj1_536c69f.png) no-repeat;
+  background: url(../img/cj1_536c69f.png) no-repeat;
   top: 100px;
   margin-left: -558px
 }
@@ -418,7 +418,7 @@
 .container .mid_content .item3  .txt a.cj2 {
   width: 272px;
   height: 340px;
-  background: url(https://xz.res.netease.com/pc/zt/20180913102813/img/cs/cj2_4dd5945.png) no-repeat;
+  background: url(../img/cj2_4dd5945.png) no-repeat;
   top: 0;
   margin-left: -276px
 }
@@ -426,7 +426,7 @@
 .container .mid_content .item3  .txt a.cj3 {
   width: 277px;
   height: 359px;
-  background: url(https://xz.res.netease.com/pc/zt/20180913102813/img/cs/cj3_75839c9.png) no-repeat;
+  background: url(../img/cj3_75839c9.png) no-repeat;
   top: -15px;
   margin-left: 12px
 }
@@ -434,7 +434,7 @@
 .container .mid_content .item3  .txt a.cj4 {
   width: 279px;
   height: 332px;
-  background: url(https://xz.res.netease.com/pc/zt/20180913102813/img/cs/cj4_9b67505.png) no-repeat;
+  background: url(../img/cj4_9b67505.png) no-repeat;
   top: 100px;
   margin-left: 288px
 }
@@ -443,7 +443,7 @@
   position: absolute;
   width: 115px;
   height: 82px;
-  background: url(https://xz.res.netease.com/pc/zt/20180913102813/img/cs/part3_h_9ce7fa6.png) no-repeat;
+  background: url(../img/part3_h_9ce7fa6.png) no-repeat;
   left: 50%;
   top: 102px;
   margin-left: -57px;
@@ -492,7 +492,7 @@
     overflow: hidden;
     margin: 0 auto;
   }
-  #NIE-copyRight {
+  #NIE-copyright {
     text-align: center;
   }
   
@@ -558,7 +558,7 @@
     padding-left: 18px;
     font-style: normal;
   }
-  .NIE-copyRight p, .NIE-copyRight a, .NIE-copyRight i, .NIE-copyRight span {
+  .NIE-copyright p, .NIE-copyright a, .NIE-copyright i, .NIE-copyright span {
       color: #fff;
   }
   .nie-copyright-new-inner .nie-cn-nav a.nie-cn-guardianship {
@@ -574,7 +574,7 @@
     top: 21px
   }
   
-  #NIE-copyRight a.nie-cn-guardianship {
+  #NIE-copyright a.nie-cn-guardianship {
     color: #fff;
   }
   

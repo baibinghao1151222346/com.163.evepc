@@ -104,7 +104,7 @@
     overflow: hidden;
     margin: 0 auto;
   }
-  #NIE-copyRight {
+  #NIE-copyright {
     text-align: center;
   }
   
@@ -170,7 +170,7 @@
     padding-left: 18px;
     font-style: normal;
   }
-  .NIE-copyRight p, .NIE-copyRight a, .NIE-copyRight i, .NIE-copyRight span {
+  .NIE-copyright p, .NIE-copyright a, .NIE-copyright i, .NIE-copyright span {
       color: #fff;
   }
   .nie-copyright-new-inner .nie-cn-nav a.nie-cn-guardianship {
@@ -186,7 +186,7 @@
     top: 21px
   }
   
-  #NIE-copyRight a.nie-cn-guardianship {
+  #NIE-copyright a.nie-cn-guardianship {
     color: #fff;
   }
   
