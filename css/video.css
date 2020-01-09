@@ -6,12 +6,12 @@
     position: relative;
     overflow: hidden;
     margin: 0 auto;
-    background: #17191a url(../img/news/main_bg_72733bd.jpg) no-repeat center 400px;
+    background: #17191a url(../img/main_bg_72733bd.jpg) no-repeat center 400px;
 }
 .wrap .header {
     height: 400px;
     overflow: hidden;
-    background: url(../img/news/header_bg_4c99a36.jpg) no-repeat center top;
+    background: url(../img/header_bg_4c99a36.jpg) no-repeat center top;
 }
 .wrap .header .inner {
     width: 1200px;
